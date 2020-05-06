@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TangentAndSecantMethods", "TangentAndSecantMethods\TangentAndSecantMethods.vcxproj", "{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Debug|x64.ActiveCfg = Debug|x64
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Debug|x64.Build.0 = Debug|x64
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Debug|x86.Build.0 = Debug|Win32
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Release|x64.ActiveCfg = Release|x64
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Release|x64.Build.0 = Release|x64
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Release|x86.ActiveCfg = Release|Win32
+		{2DF50DA6-44BA-4F8C-B102-8DA79F55814F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352C840B-379F-4D48-88A6-02050CAB2C7F}
+	EndGlobalSection
+EndGlobal
